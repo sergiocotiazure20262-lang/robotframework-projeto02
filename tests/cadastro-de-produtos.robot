@@ -57,4 +57,4 @@ Eu confirmo a realização do cadastro do produto
 Eu sou informado que o produto foi cadastrado com sucesso
     # Verificar a mensagem exibida pelo sistema
     Element Should Contain     ${MESSAGE_CADASTRO}       Produto cadastrado com sucesso!
-    Capture Page Screenshot    /screenshots/cadastro-de-produto-realizado-com-sucesso.png
+    Capture Page Screenshot    screenshots/cadastro-de-produto-realizado-com-sucesso.png
